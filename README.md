@@ -1,3 +1,3 @@
 Projeto criado por:
-Pedro Henrique Bezerra Matizs,
+Pedro Henrique Bezerra Matias,
 Pedro Henrique Doria Rodrigues.
